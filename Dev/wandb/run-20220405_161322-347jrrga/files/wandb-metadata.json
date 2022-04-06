@@ -1,0 +1,21 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.8.12",
+    "heartbeatAt": "2022-04-05T14:13:30.533702",
+    "startedAt": "2022-04-05T14:13:22.114374",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2080 SUPER",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\juans\\AppData\\Roaming\\jupyter\\runtime\\kernel-f1831216-4de1-4eab-83eb-5b18de95ec4f.json"
+    ],
+    "state": "running",
+    "program": "iCloudDrive/Desktop/OneDrive - Universidad Pontificia Comillas/QUINTO GITT BA/TFG ANALYT/Development/Dev/analisis_01.ipynb",
+    "root": "C:\\Users\\juans",
+    "host": "DESKTOP-96EDH1E",
+    "username": "juans",
+    "executable": "C:\\Users\\juans\\miniconda3\\envs\\nlp-3-8\\python.exe"
+}
