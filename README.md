@@ -12,7 +12,7 @@ Y luego ejecutar el script llamado 'dash_bank.py':
 ```pip
   python dash_bank.py
 ```
-Y probarlo. OJO, por solucionar problemas de decodificar bytes subidos, lo que hace el dahs es buscar el PDF subido en la carpeta 'PDFs', asi que solo funcionará si el PDF de encuentra en esa carpeta y si su nombre tiene el siguiente estilo:
+Y probarlo. OJO, por solucionar problemas de decodificar bytes subidos, lo que hace el dash es buscar el PDF subido en la carpeta 'PDFs', asi que solo funcionará si el PDF de encuentra en esa carpeta y si su nombre tiene el siguiente estilo:
 ```pip
   BANCO_AÑO.pdf
 ```
